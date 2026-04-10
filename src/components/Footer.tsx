@@ -133,12 +133,12 @@ export default function Footer() {
         </div>
       </div>
 
-      {/* Founders Section */}
+      {/* Founders Section 
       <div className="border-t border-white/10">
         <div className="container-custom py-12">
           <h4 className="text-2xl font-bold mb-8 text-center">Meet Our Founders</h4>
           <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-            {/* Sujal S Kumar */}
+            {/* Sujal S Kumar
             <div className="flex items-center gap-6 p-6 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 transition-colors">
               <div className="w-24 h-24 rounded-full bg-gray-700 flex-shrink-0 overflow-hidden relative group border-2 border-primary/20">
                 <Image
@@ -159,7 +159,7 @@ export default function Footer() {
               </div>
             </div>
 
-            {/* Shraddha S Poojary */}
+            {/* Shraddha S Poojary 
             <div className="flex items-center gap-6 p-6 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 transition-colors">
               <div className="w-24 h-24 rounded-full bg-gray-700 flex-shrink-0 overflow-hidden relative group border-2 border-primary/20">
                 <Image
@@ -182,7 +182,7 @@ export default function Footer() {
           </div>
         </div>
       </div>
-
+*/}
       {/* App download badges */}
       <div className="border-t border-white/10">
         <div className="container-custom py-8">
